@@ -1,5 +1,7 @@
 Omline Gaming platform
 
+Some technologies used: PHP and JavaScript
+
 Source code: 
 
 https://drive.google.com/file/d/18HtWQlmKcxNijhoqQl0XkQQeyY7s97P3/view?usp=sharing
