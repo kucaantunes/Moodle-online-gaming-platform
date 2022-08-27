@@ -1,4 +1,4 @@
-Omline Gaming platform
+Online Gaming platform
 
 Some technologies used: PHP and JavaScript
 
