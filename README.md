@@ -1,5 +1,3 @@
-"# kucaantunes.github.io" 
-
 Omline Gaming platform
 
 Source code: 
